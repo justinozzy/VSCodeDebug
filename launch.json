@@ -8,7 +8,7 @@
         "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/home/ubuntu/Home/VSCode/Spring 2023/CSE340/out",
+            "program": "${fileDirname}/out",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${fileDirname}",
